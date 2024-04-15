@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="default_groups_label">Default Groups</string>
+    <string name="custom_groups_label">Custom Groups</string>
+    <string name="new_group_label">New Group</string>
+    <string name="save_button">Save</string>
+    <string name="recommended_group_names_label">Recommended Group Names</string>
+    <string name="group_name_label">Group Name</string>
+    <string name="group_icon_label">Group Icon</string>
+    <string name="new_task_label">New Task</string>
+    <string name="edit_task_label">Edit Task</string>
+    <string name="task_name_label">Task Name</string>
+    <string name="description_label">Description</string>
+    <string name="subtasks_label">SubTasks</string>
+    <string name="subtask_name_label">Subtask Name</string>
+    <string name="images_label">Images</string>
+    <string name="priority_label">Priority</string>
+    <string name="group_label">Group</string>
+    <string name="user_location_label">Location (Copy from map pin in the form \"Latitude, Longitude\")</string>
+    <string name="delete_todo_label">Delete Todo?</string>
+    <string name="permanent_action_label">This action will be permanent</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="no_groups_label">No custom groups exist. Please add one from the home page!</string>
+    <string name="general_settings_label">General Settings</string>
+    <string name="sort_by_label">Sort By</string>
+    <string name="notifications_label">Notifications</string>
+    <string name="description_length">Description Length</string>
+    <string name="dark_mode">DarkMode</string>
+</resources>
